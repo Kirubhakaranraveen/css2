@@ -1,0 +1,114 @@
+.block1{
+border: 5px solid red;
+width: 200px;height: 90px;
+text-align:center;
+margin: 10px;line-height: 20px;
+box-shadow: 5px 5px rgb(88, 5, 88);
+position: absolute;left: 500px;
+color:rgb(83, 13, 83);background-color: white;
+}
+.block2{
+    border: 5px solid green;
+    width: 1200px;height: 500px;
+    background-color:gray; 
+    position: absolute;left: 100px;
+    position: absolute;top: 150px;
+}
+.block3{
+    border: 5px solid red;
+    width: 200px;height: 120px;
+    text-align: center;
+    border-radius: 10px;
+    line-height: 20px;
+    position: absolute;top: 200px;
+    position: absolute;left: 120px;
+    box-shadow: 5px 5px rgb(88,5,88);
+    color: rgb(83, 13, 83);
+    background-color: white;
+}
+.block4{
+    border: 5px solid red;
+    width: 200px;height: 170px;
+    border-radius: 10px;
+    line-height: 20px;
+    box-shadow: 5px 5px rgb(88,5,88);
+    position: absolute;top:400px;
+    position: absolute;left:120px;
+    color:rgb(83, 13, 83);
+    background-color:white;
+}
+.block5{
+
+    border: 5px solid red;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgb(88,5,88);
+    position: fixed;left:400px;
+    position: fixed;top: 350px;
+    position: fixed;bottom: 10px;
+    color: rgb(83,13,83);
+    background-color:rgb(0, 255, 0);
+    z-index: 3;
+    
+}
+.block6{
+    border: 5px solid red;
+    width: 230px;height: 180px;
+    position: absolute;left: 1000px;
+    position: absolute;top:400px;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgb(88,5,88);
+    color: rgb(83, 13, 83);
+    text-align: center;
+    background-color: white;
+    
+}
+p{
+    display: inline;
+    border:3px solid red;
+    position: absolute;left: 70px;
+    border-radius: 10px;
+    background-color: red;color: black;
+}
+.block7{
+    display: block;
+    border: 5px solid rgb(83,13,83);
+    width: 650px;height: 400px; text-align: center;
+    position: relative;top: 650px;
+    position: relative;left: 400px;
+    box-sizing: border-box;
+    background-color: green;
+    
+
+}
+.block8{
+position: absolute;top: 70px;
+position: absolute;left: 320px;
+width: 100px;
+}
+h5{
+    border: 1px solid green;
+    position: absolute;left: 10px;
+    text-align: center;
+    background-color: rgb(234, 255, 47);color: black;
+    
+}
+.block9{
+    position: absolute;top: 250px;
+    z-index: 3;
+    
+}
+body{
+    background-color: gray;
+}
+.image1{
+    border: 5px solid red;
+    width: 200px;height: 120px;
+    background-color: white;
+    position: absolute;left: 890px;
+    position: absolute;top: 1px;
+    border-radius: 10px;
+    
+}
